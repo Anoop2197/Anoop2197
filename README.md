@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Anoop2197
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...python full stack developer
+- 👀 I’m interested in ...Coding
+- 🌱 I’m currently learning ...Python Full Stack Developer
 - 💞️ I’m looking to collaborate on ...your company 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me ...Any Time
+- 😄 Pronouns: ...He/Him/His
+- ⚡ Fun fact: ...Game Codders!
 
 <!---
 Anoop2197/Anoop2197 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
