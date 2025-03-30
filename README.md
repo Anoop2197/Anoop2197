@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anoop2197
 - 👀 I’m interested in ...Coding
-- 🌱 I’m currently learning ...Python Full Stack Developer
+- 🌱 I’m currently learning ...DOTNET Full Stack Developer
 - 💞️ I’m looking to collaborate on ...your company 
 - 📫 How to reach me ...Any Time
 - 😄 Pronouns: ...He/Him/His
